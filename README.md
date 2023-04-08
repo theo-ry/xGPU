@@ -1,2 +1,0 @@
-# xGPU
-slightly modified xGPU
